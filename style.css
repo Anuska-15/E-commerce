@@ -7,7 +7,7 @@ body{
     font-family: 'Poppins', sans-serif !important;
     /* background-color: rgb(215, 238, 238) !important; */
     /* background-color: rgb(42, 77, 94) !important; */
-    background: radial-gradient(rgb(145, 141, 141),#3b80e7);
+    background: radial-gradient(rgb(145, 141, 141),#97b5e2);
 }
 label{
     color:white;
@@ -91,7 +91,7 @@ p{
 }
 .header{
     /* background: radial-gradient(rgb(156, 146, 146),#153c77); */
-    background-image: url("https://images.unsplash.com/photo-1561715276-a2d087060f1d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjh8fHNob3BzfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+    background-image: url("https://media.istockphoto.com/photos/3d-rendering-of-illuminated-shopping-trolley-at-abandoned-foggy-picture-id1294843683?b=1&k=20&m=1294843683&s=170667a&w=0&h=fDTouPj3lkuyPMexLLdrlTut_XLIQWnv-xnhVH10Vro=");
 
     background-repeat: no-repeat;
     background-size: cover;
